@@ -157,5 +157,3 @@ The findings can support better seasonal agricultural planning and provide direc
 **Seasonal Agriculture Performance Analysis**
 
 **VOIS AICTE Batch 1 – 2026–2027**
-
-**Team:** MASKED HUNTERS
